@@ -1,7 +1,7 @@
 #!/bin/bash
 #=================================================
 # Description: DIY script
-# Lisence: MIT
+# Lisence: MIT  
 # Author: P3TERX
 # Blog: https://p3terx.com
 #=================================================
